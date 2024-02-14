@@ -1,0 +1,1 @@
+export const base_url = "https://ferreapp2-default-rtdb.firebaseio.com/"

@@ -1,0 +1,1783 @@
+[
+	{
+		"id": 1891,
+		"title": "ARGOLLA HIERRO ZINC 6 X 44",
+		"category": "FERRETERIA",
+		"price": 490,
+		"stock": 10
+	},
+	{
+		"id": 1892,
+		"title":"ARGOLLA HIERRO ZINC 6 X 48",
+		"category":"FERRETERIA",
+		"price": 550,
+		"stock": 10
+	},
+	{
+		"id": 1893,
+		"title":"ARGOLLA DE BRONCE PULIDA 28 M.M",
+		"category":"FERRETERIA",
+		"price": 2200,
+		"stock": 10
+	},
+	{
+		"id": 1894,
+		"title":"ARGOLLA DE BRONCE PULIDA 32 M.M",
+		"category":"FERRETERIA",
+		"price": 2500,
+		"stock": 10
+	},
+	{
+		"id": 1895,
+		"title":"ARGOLLA DE BRONCE PULIDA 38 M.M",
+		"category":"FERRETERIA",
+		"price": 3200,
+		"stock": 10
+	},
+	{
+		"id": 1896,
+		"title":"ARGOLLA DE BRONCE PULIDA 60 MM",
+		"category":"FERRETERIA",
+		"price": 6000,
+		"stock": 10
+	},
+	{
+		"id": 1897,
+		"title":"ARGOLLA DE BRONCE PULIDA 68 M.M",
+		"category":"FERRETERIA",
+		"price": 6900,
+		"stock": 10
+	},
+	{
+		"id": 1898,
+		"title":"IMPREGNANTE LASUR NATURAL BRILLANTE X 1 LT",
+		"category":"PINTURAS",
+		"price": 3300,
+		"stock": 10
+	},
+	{
+		"id": 1899,
+		"title":"IMPREGNANTE LASUR NATURAL BRILLANTE X 4 LT",
+		"category":"PINTURAS",
+		"price": 11900,
+		"stock": 10
+	},
+	{
+		"id": 1900,
+		"title":"ARGOLLA BRONCE LABRADA 18 MM",
+		"category":"FERRETERIA",
+		"price": 1500,
+		"stock": 10
+	},
+	{
+		"id": 1901,
+		"title":"ARGOLLA BRONCE LABRADA 22 MM",
+		"category":"FERRETERIA",
+		"price": 1600,
+		"stock": 10
+	},
+	{
+		"id": 1903,
+		"title":"ARGOLLA BRONCE LABRADA 25 MM",
+		"category":"FERRETERIA",
+		"price": 1800,
+		"stock": 10
+	},
+	{
+		"id": 1904,
+		"title":"ARGOLLA BRONCE LABRADA 28 MM",
+		"category":"FERRETERIA",
+		"price": 2000,
+		"stock": 10
+	},
+	{
+		"id": 1905,
+		"title":"ARGOLLA BRONCE LABRADA 32 MM",
+		"category":"FERRETERIA",
+		"price": 2500,
+		"stock": 10
+	},
+	{
+		"id": 1906,
+		"title":"ARGOLLA BRONCE LABRADA 38 MM",
+		"category":"FERRETERIA",
+		"price": 3200,
+		"stock": 10
+	},
+	{
+		"id": 1907,
+		"title":"ARGOLLA BRONCE LABRADA 45 MM",
+		"category":"FERRETERIA",
+		"price": 4500,
+		"stock": 10
+	},
+	{
+		"id": 1908,
+		"title":"DADO BRONCE PULIDO P 50",
+		"category":"FERRETERIA",
+		"price": 5900,
+		"stock": 10
+	},
+	{
+		"id": 1909,
+		"title":"DADO BRONCE PULIDO P 70",
+		"category":"FERRETERIA",
+		"price": 7500,
+		"stock": 10
+	},
+	{
+		"id": 1910,
+		"title":"BULON MULETA 110/150",
+		"category":"REPUESTOS PARA MOTO",
+		"price": 300,
+		"stock": 10
+	},
+	{
+		"id": 1911,
+		"title":"CHAVETA VOLANTE 110/150",
+		"category":"REPUESTOS PARA MOTO",
+		"price": 150,
+		"stock": 10
+	},
+	{
+		"id": 1912,
+		"title":"MANIJA EMBRAGUE YBR",
+		"category":"REPUESTOS PARA MOTO",
+		"price": 1500,
+		"stock": 10
+	},
+	{
+		"id": 1913,
+		"title":"MULETA RX150",
+		"category":"REPUESTOS PARA MOTO",
+		"price": 2900,
+		"stock": 10
+	},
+	{
+		"id": 1914,
+		"title":"BUJIA KESSEL 10-K5TC ROSCA CORTA ",
+		"category":"REPUESTOS",
+		"price": 1300,
+		"stock": 10
+	},
+	{
+		"id": 1917,
+		"title":"VASO STANLEY 473 ML",
+		"category":"BAZAR",
+		"price": 6900,
+		"stock": 10
+	},
+	{
+		"id": 1918,
+		"title":"TERMO STANLEY ACERO INOXIDABLE 500ML",
+		"category":"BAZAR",
+		"price": 9900,
+		"stock": 10
+	},
+	{
+		"id": 1919,
+		"title":"CALEFACTOR LILIANA",
+		"category":"ELECTRICIDAD",
+		"price": 29000,
+		"stock": 10
+	},
+	{
+		"id": 1920,
+		"title":"LLAVE LUZ 2 PUNTOS CON FUSIBLE CRIFA ",
+		"category":"REPUESTOS",
+		"price": 3000,
+		"stock": 10
+	},
+	{
+		"id": 1921,
+		"title":"BUJIA PRECALENTADOR KESSEL CORSA 9221",
+		"category":"REPUESTOS",
+		"price": 7000,
+		"stock": 10
+	},
+	{
+		"id": 1922,
+		"title":"BOMBA ACEITE MOTOSIERRA CHINA C/SIN FIN",
+		"category":"REPUESTOS",
+		"price": 6500,
+		"stock": 10
+	},
+	{
+		"id": 1923,
+		"title":"KIT BRIDA ADMISION MOTOSIERRA CHINA",
+		"category":"REPUESTOS",
+		"price": 3800,
+		"stock": 10
+	},
+	{
+		"id": 1924,
+		"title":"KIT TRINQUETE STIHL 170",
+		"category":"REPUESTOS",
+		"price": 2500,
+		"stock": 10
+	},
+	{
+		"id": 1926,
+		"title":"MANGUERA DE CIRCULACIÓN DE AGUA CP 4121 BBA DE AGUA A TUBO RIGIDO GOL/GACEL W54340",
+		"category":"REPUESTOS",
+		"price": 3500,
+		"stock": 10
+	},
+	{
+		"id": 1927,
+		"title":"JUNTA MÚLTIPLE DE ADMISIÓN CICCARELLI 08032900 (4 PIEZAS) FORD FIESTA/KA/ECOSP 1.6 16V JP 788",
+		"category":"REPUESTOS",
+		"price": 11500,
+		"stock": 10
+	},
+	{
+		"id": 1928,
+		"title":"RULEMAN TOPROL 32010",
+		"category":"REPUESTOS",
+		"price": 4900,
+		"stock": 10
+	},
+	{
+		"id": 1929,
+		"title":"TAPA DE ENTRADA DE ACEITE NAP TA75 (NEGRA) CHEVROLET CORSA TA4750",
+		"category":"REPUESTOS",
+		"price": 2100,
+		"stock": 10
+	},
+	{
+		"id": 1930,
+		"title":"JUEGO DE AROS HIDRÁULICO CENTRINEL PMA7521 00 STD CHEVROLET CORSA",
+		"category":"REPUESTOS",
+		"price": 17000,
+		"stock": 10
+	},
+	{
+		"id": 1931,
+		"title":"DEPÓSITO RECUPERADOR DE AGUA NAP DR901 FIAT DUNA/UNO/147 D 8510",
+		"category":"REPUESTOS",
+		"price": 6000,
+		"stock": 10
+	},
+	{
+		"id": 1932,
+		"title":"MANGUERA DE CIRCULACIÓN DE AGUA CP4104 RADIADOR INFERIOR GOL/GACEL/SENDA W56550",
+		"category":"REPUESTOS",
+		"price": 3900,
+		"STOCK": 3
+	},
+	{
+		"id": 1933,
+		"title":"CABLES DE ENCENDIDO EDISON SC-T64 (4 CABLES) FIAT GRAN SIENA/UNO CB1300",
+		"category":"REPUESTOS",
+		"price": 11000,
+		"stock": 4
+	},
+	{
+		"id": 1934,
+		"title":"FLOTANTE PARA CARBURADOR FLOT 48M (CARBURADOR WEBER) FIAT/RENAULT 225480",
+		"category":"REPUESTOS",
+		"price": 5500,
+		"STOCK": 10
+	},
+	{
+		"id": 1935,
+		"title":"DEPÓSITO RECUPERADOR DE AGUA NAP DR910 RENAULT CLIO/MEGANE D 8600",
+		"category":"REPUESTOS",
+		"price": 5000,
+		"stock": 4
+	},
+	{
+		"id": 1936,
+		"title":"MAZA DE RUEDA NBC XTGB 40490 P TRASERA CON RODAMIENTO (CON ABS) FIAT PALIO/LINEA MZ5744",
+		"category":"REPUESTOS",
+		"price": 40000,
+		"stock": 5
+	},
+	{
+		"id": 1937,
+		"title":"PRE SD 1 TAPA RADIADOR LINEA IMP.M/VJO B/CH (0.9B) C/RES IMPORTADO TA7090",
+		"category":"REPUESTOS",
+		"price": 5000,
+		"stock": 25
+	},
+	{
+		"id": 1938,
+		"title":"CADENA TRANSMISION CHOHO 428 X 118",
+		"category":"REPUESTOS PARA MOTO",
+		"price": 11000,
+		"stock": 20
+	},
+	{
+		"id": 1940,
+		"title":"DESTAPA CAÑERIAS CONCENTRADO 1LT MERCLIN",
+		"category":"FERRETERIA",
+		"price": 1400,
+		"stock": 30
+	},
+	{
+		"id": 1941,
+		"title":"CARGADOR TIPO C IBEK 4.8A",
+		"category":"VARIOS",
+		"price": 3900,
+		"stock": 10
+	},
+	{
+		"id": 1942,
+		"title":"AURICULAR ONLY WH-530",
+		"category":"VARIOS",
+		"price": 4500,
+		"stock": 25
+	},
+	{
+		"ID": 1943,
+		"title":"CABLE USB PHONE",
+		"category":"VARIOS",
+		"price": 1500,
+		"stock": 30
+	},
+	{
+		"id": 1944,
+		"title":"RETÉN DE RUEDA DBH 6873 DELANTERA FORD ESCORT D80170",
+		"category":"REPUESTOS",
+		"price": 1500,
+		"stock": 5
+	},
+	{
+		"id": 1945,
+		"title":"MANGUERA DE CIRCULACIÓN DE AGUA CAUPLAS 6161 RADIADOR SUPERIOR RENAULT R12 W44780",
+		"category":"REPUESTOS",
+		"price": 3500,
+		"stock": 6
+	},
+	{
+		"id": 1946,
+		"title":"JAB. NIVEA GLICERINA PETALOS DE ROSA X 3 X 90G",
+		"category":"LIMPIEZA",
+		"price": 1500,
+		"stock": 25
+	},
+	{
+		"id": 1949,
+		"title":"BOLSA PARA CARBON 36 X 60 X 100",
+		"category":"FERRETERIA",
+		"price": 5000,
+		"stock": 30
+	},
+	{
+		"id": 1950,
+		"title":"SOPORTE Y TUERCA MOTOR VENTILADOR IMP",
+		" category":"FERRETERIA",
+		"price": 2500,
+		"stock": 8
+	},
+	{
+		"id": 1951,
+		"title":"TERMOSTATO TERMOTANQUE  RHEEN LONGVIE ORBIS",
+		"category":"ELECTRICIDAD",
+		"price": 6900,
+		"stock": 5
+	},
+	{
+		"id": 1953,
+		"title":"POLEA PLASTICA MOTOR DREAN FAMILY",
+		" category":"FERRETERIA",
+		"price": 900,
+		"stock": 10
+	},
+	{
+		"id": 1954,
+		"title":"SACA HOJA PLASTICO PARA PILETA",
+		"category":"FERRETERIA",
+		"price": 2500,
+		"stock": 8
+	},
+	{
+		"id": 1955,
+		"title":"REMACHES ARGENRAP  6 X 12",
+		"category":"FERRETERIA",
+		"price": 30,
+		"stock": 100
+	},
+	{
+		"id": 1956,
+		"title":"ESCARDILLO CON CABO",
+		"category":"FERRETERIA",
+		"price": 3900,
+		"stock": 10
+	},
+	{
+		"id": 1957,
+		"title":"AZADA CARPIR N 1",
+		"category":"FERRETERIA",
+		"price": 4000,
+		"stock": 5
+	},
+	{
+		"id": 1958,
+		"title":"ESPARRAGO 7 X 50 1.00-1.00",
+		"category":"BULONERIA",
+		"price": 300,
+		"stock": 30
+	},
+	{
+		"id": 1960,
+		"title":"BUJE AMORTIGUADOR",
+		"category":"REPUESTOS",
+		"price": 1500,
+		"stock": 15
+	},
+	{
+		"id": 1961,
+		"title":"GRASA MULTIUSO DE LITIO E/A CHEMICALS 427",
+		"category":"QUIMICOS",
+		"price": 3200,
+		"stock": 15
+	},
+	{
+		"id": 1962,
+		"title":"POWERLFULL LAVA CAMION CHEMICAL X 1 LT",
+		"category":"QUIMICOS",
+		"price": 3900,
+		"stock": 18
+	},
+	{
+		"id": 1963,
+		"title":"CURVA CHAPA 4",
+		"category":"FERRETERIA",
+		"price": 3500,
+		"stock": 10	
+	},
+	{
+		"id": 1964,
+		"title":"DESOD. AMB. GLADE LILAS VIBRANTES X 360 CC",
+		"category":"LIMPIEZA",
+		"price": 850,
+		"stock": 10
+	},
+	{
+			"id": 1965,
+			"title":"DESODORANTE AER GLADE I LOVE YOU X 360ML",
+			"category":"LIMPIEZA",
+			"price": 950,
+			"stock": 10
+		},
+		{
+			"id": 1968,
+			"title":"OPTICA MOTO SKUA/DAKAR",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 10000,
+			"stock": 10
+		},
+		{
+			"id": 1970,
+			"title":"PRECINTO NEGRO 7.6 X  350  X UNID",
+			"category":"FERRETERIA",
+			"price": 200,
+			"stock": 10
+		},
+		{
+			"id": 1971,
+			"title":"BUJE DE SUSPENSIÓN EJE TRASERO TB 30056 GACEL/GOL/SAVEIRO TB5630",
+			"category":"REPUESTOS",
+			"price": 4000,
+			"stock": 10
+		},
+		{
+			"id": 1972,
+			"title":"CAJA RECTANGULAR PLASTICO AMARILLO 5 X 10",
+			" category":"ELECTRICIDAD",
+			"price": 300,
+			"stock": 10
+		},
+		{
+			"id": 1973,
+			"title":"GOMA P/VALVULA 1/2",
+			"category":"FERRETERIA",
+			"price": 200,
+			"stock": 10
+		},
+		{
+			"id": 1974,
+			"title":"MANTEL CRISTAL REFORZADO N 2 X 1.4",
+			"category":"FERRETERIA",
+			"price": 3000,
+			"stock": 10
+		},
+		{
+			"id": 1975,
+			"title":"REMACHES ARGENRAP 5 X 30 X UNID",
+			"category":"FERRETERIA",
+			"price": 50,
+			"stock": 10
+		},
+		{
+			"id": 1976,
+			"title":"CAÑO PPN TRICAPA 1/2 X MT POLYMEX",
+			"category":"FERRETERIA",
+			"price": 700,
+			"stock": 10
+		},
+		{
+			"id": 1977,
+			"title":"ESMALTE SINTETICO GRUPO DOS VERDE INGLES 1 LT VERMOL",
+			"category":"PINTURAS",
+			"price": 7000,
+			"stock": 10
+		},
+		{
+			"id": 1978,
+			"title":"LAMPARA LED P/LINTERNA 3D",
+			"category":"FERRETERIA",
+			"price": 600,
+			"stock": 10
+		},
+		{
+			"id": 1979,
+			"title":"CABLE ACELERADOR HADA CBX 250 TWISTER",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 1400,
+			"stock": 10
+		},
+		{
+			"id": 1980,
+			"title":"CABLE ACELERADOR HADA CBX 250 TWISTER INYECCION",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 2500,
+			"stock": 10
+		},
+		{
+			"id": 1981,
+			"title":"DISCO EMBRAGUE YASUKI HONDA C90/GIL SMASH 3 DISCOS",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 2900,
+			"stock": 10
+		},
+		{
+			"id": 1982,
+			"title":"FAROL TRAS VC HONDA DAX",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 3900,
+			"stock": 10
+		},
+		{
+			"id": 1983,
+			"title":"ALPARGATA CHEVERE SUELA ALTA 35/46",
+			"category":"FERRETERIA",
+			"price": 3900,
+			"stock": 10
+		},
+		{
+			"id": 1984,
+			"title":"RULEMAN DBA 6004 2RS",
+			"category":"REPUESTOS",
+			"price": 1990,
+			"stock": 10
+		},
+		{
+			"id": 1985,
+			"title":"ARANDELAS PLANAS COMUNES ZINCADAS 3/16 X KG",
+			"category":"BULONERIA",
+			"price": 11000,
+			"stock": 10
+		},
+		{
+			"id": 1986,
+			"title":"ARANDELAS PLANAS COMUNES ZINCADAS 3/8 X KG",
+			"category":"BULONERIA",
+			"price": 4000,
+			"stock": 10
+		},
+		{
+			"id": 1987,
+			"title":"LAMPARA LED 9W TACOMA LD",
+			"category":"ELECTRICIDAD",
+			"price": 800,
+			"stock": 10
+		},
+		{
+			"id": 1988,
+			"title":"PROLONGADOR CROMADO PARA CANILLA 1/2 X 40 Hº",
+			"category":"FERRETERIA",
+			"price": 2000,
+			"stock": 10
+		},
+		{
+			"id": 1989,
+			"title":"KIT REPARACION CANILLA MONOCOMANDO",
+			"category":"FERRETERIA",
+			"price": 990,
+			"stock": 10
+		},
+		{
+			"id": 1990,
+			"title":"MINI LISTON LED BAJO MESADA CANDELA 5 W 30 CM",
+			"category":"ELECTRICIDAD",
+			"price": 3700,
+			"stock": 10
+		},
+		{
+			"id": 1991,
+			"title":"MINI LISTON LED BAJO MESADA CANDELA 60 CM 9 W",
+			"category":"ELECTRICIDAD",
+			"price": 4500,
+			"stock": 10
+		},
+		{
+			"id": 1992,
+			"title":"MINI LISTON LED BAJO MESADA CANDELA 90 CM 12 W",
+			"category":"ELECTRICIDAD",
+			"price": 4800,
+			"stock": 10
+		},
+		{
+			"id": 1993,
+			"title":"AUTOMATICO DE ARRANQUE SIK-PA BOSCH 204 AU 3023",
+			"category":"REPUESTOS",
+			"price": 9500,
+			"stock": 10
+		},
+		{
+			"id": 1994,
+			"title":"BALANCIN CH ABAJO HONDA TODAY/RX 150",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 15000,
+			"stock": 10
+		},
+		{
+			"id": 1995,
+			"title":"JGO DISCO EMBRAGUE 3G BIZ-WAVE",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 4500,
+			"stock": 10
+		},
+		{
+			"id": 1996,
+			"title":"IMPULSOR BENDIX ARRANQUE FIRE PALIO SIENA 1.3 ZEN 1666",
+			"category":"REPUESTOS",
+			"price": 6000,
+			"stock": 10
+		},
+		{
+			"id": 1997,
+			"title":"KIT PISTON HONDA CBX 200 NX200 STD",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 11900,
+			"stock": 10
+		},
+		{
+			"id": 1998,
+			"title":"TAPA FRENO TRASERO SMASH",
+			"category":"REPUESTOS PARA MOTO",
+			"price": 9500,
+			"stock": 10
+		},
+		{
+			"id": 1999,
+			"title":"AMORTIGUADOR DE SUSPENSIÓN SACHS 316 250 TRASERO TOYOTA HILUX 4X2/4X4 05>20 SA7840",
+			"category":"REPUESTOS",
+			"price": 35000,
+			"stock": 10
+		},
+		{
+			"id": 2000,
+			"title":"CALENTADOR AGUA P/AUTO 12V",
+			"category":"VARIOS",
+			"price": 2500,
+			"stock": 2
+		},
+		{
+			"id": 2001,
+			"title": "AURICULAR SUOMO SM-900MV",
+			"category": "VARIOS",
+			"price": 10000,
+			"stock": 30
+		},
+		{
+			"id": 2002,
+			"title": "BATERIA BATSA 12 V 120A",
+			"category": "REPUESTOS",
+			"price": 110000,
+			"stock": 2
+		},
+		{
+			"id": 2003,
+			"title": "BATERIA BATSA 12 V 110A",
+			"category": "REPUESTOS",
+			"price": 95000,
+			"stock": 2
+		},
+		{
+			"id": 2004,
+			"title": "CABLE DE EMBRAGUE FHG 1558BIS (CON REGULADOR) ESCORT 90>93 CE1024",
+			"category": "REPUESTOS",
+			"price": 4000,
+			"stock": 3
+		},
+		{
+			"id": 2005,
+			"title": "FHG 1308A CEBADOR UNIVERSAL 1,25MT 1250MM PER/HIER CV8220",
+			"category": "REPUESTOS",
+			"price": 8500,
+			"stock": 5
+		},
+		{
+			"id": 2006,
+			"title": "FHG 1310A CEBADOR UNIVERSAL 2,20MT 2200MM P/HIERR CV8230",
+			"category": "REPUESTOS",
+			"price": 8500,
+			"stock": 5
+		},
+		{
+			"id": 2007,
+			"title": "RODAMIENTO PARA CAZOLETA DE SUSPENSIÓN NBC F 45908 ORIGINAL FIAT DUNA/UNO R43134",
+			"category": "REPUESTOS",
+			"price": 3000,
+			"stock": 2
+		},
+		{
+			"id": 2008,
+			"title": "CAZOLETA DE SUSPENSIÓN TB 40043 DELANTERA FIAT DUNA/UNO TB6130",
+			"category": "REPUESTOS",
+			"price": 5500,
+			"stock": 4
+		},
+		{
+			"id": 2009,
+			"title": "BOLSA RESIDUO 60  X 90 MELLIS",
+			"category": "LIMPIEZA",
+			"price": 490,
+			"stock": 40
+		},
+		{
+			"id": 2010,
+			"title": "MANGUERA DE CIRCULACIÓN DE AGUA PAULUCCI AP6000 VASO DE EXPANSION PA3900 PEUGEOT",
+			"category": "REPUESTOS",
+			"price": 4900,
+			"stock": 5
+		},
+		{
+			"id": 2011,
+			"title": "MANGUERA DE CIRCULACIÓN DE AGUA PAULUCCI AP6004 VASO DE EXPANSION PEUGEOT PA3904",
+			"category": "REPUESTOS",
+			"price": 5500,
+			"stock": 4
+		},
+		{
+			"id": 2012,
+			"title": "BUJE TENSOR TB 50037 DELANTERO CHEVROLET CORSA/SUZUKI FUN TB5650",
+			"category": "REPUESTOS",
+			"price": 6500,
+			"stock": 6
+		},
+			{
+				"id": 2013,
+				"title": "TAPA DE DEPÓSITO AGUA FLORIO 22.098 (NEGRA) FORD FOCUS/FIESTA TA1392",
+				"category": "REPUESTOS",
+				"price": 5000,
+				"stock": 6
+			},
+			{
+				"id": 2014,
+				"title": "CAZOLETA DE SUSPENSIÓN TB 11109 DELANTERA (CON CRAPODINA) RENAULT R9/11 TB6910",
+				"category": "REPUESTOS",
+				"price": 29000,
+				"stock": 4
+			},
+			{
+				"id": 2015,
+				"title": "INDICADOR LUZ PILOTO C/LED ROJO",
+				"category": "REPUESTOS",
+				"price": 4000,
+				"stock": 5
+			},
+			{
+				"id": 2016,
+				"title": "INDICADOR C/LUZ PILOTO C/LED VERDE",
+				"category": "REPUESTOS",
+				"price": 3000,
+				"stock": 6
+			},
+			{
+				"id": 2017,
+				"title": "MICA MB 1114/1112/1517/1518 GIRO GUARDABARRO DEL",
+				"category": "REPUESTOS",
+				"price": 1900,
+				"stock": 4
+			},
+			{
+				"id": 2018,
+				"title": "TAPA TANQUE FIAT DUNA/UNO 87/90 TANQUE COMB BOCA CUADRADA",
+				"category": "REPUESTOS",
+				"price": 5200,
+				"stock": 6
+			},
+			{
+				"id": 2019,
+				"title": "PRENSA CABLE PLASTICO 1",
+				"category": "ELECTRICIDAD",
+				"price": 1200,
+				"stock": 10
+			},
+			{
+				"id": 2020,
+				"title": "CAB. HDMI A VIDEOCOMPONENTE 1.5 MT",
+				"category": "ELECTRICIDAD",
+				"price": 10500,
+				"stock": 10
+			},
+			{
+				"id": 2021,
+				"title": "PULSADOR ARRANQUE R/N 12 M.M",
+				"category": "ELECTRICIDAD",
+				"price": 500,
+				"stock": 10
+			},
+			{
+				"id": 2022,
+				"title": "PULSADOR MINI P/ARRANQUE",
+				"category": "ELECTRICIDAD",
+				"price": 450,
+				"stock": 10
+			},
+			{
+				"id": 2023,
+				"title": "FUSIBLE CILINDRICO DE VIDRIO 30 M.M X 1A 30 AMP",
+				"category": "ELECTRICIDAD",
+				"price": 200,
+				"stock": 10
+			},
+			{
+				"id": 2024,
+				"title": "FICHA ADAPTADOR 3.5 JACK RCA",
+				"category": "ELECTRICIDAD",
+				"price": 600,
+				"stock": 50
+			},
+			{
+				"id": 2025,
+				"title": "ADAPTADOR FICHA PLUG 6.5 ST JAK 3.5",
+				"category": "ELECTRICIDAD",
+				"price": 600,
+				"stock": 30
+			},
+			{
+				"id": 2026,
+				"title": "ADAPTADOR PLUG JAK 6.5 X 3.50 ST HIERRO",
+				"category": "ELECTRICIDAD",
+				"price": 1200,
+				"stock": 40
+			},
+			{
+				"id": 2027,
+				"title": "ADAPTADOR JAK 6.5 X 3.50 JAS PLASTICO",
+				"category": "ELECTRICIDAD",
+				"price": 700,
+				"stock": 40
+			},
+			{
+				"id": 2028,
+				"title": "SOPORTE P/TANQUE DE GUADAÑA",
+				"category": "REPUESTOS",
+				"price": 600,
+				"stock": 20
+			},
+			{
+				"id": 2029,
+				"title": "REGULADOR DE VOLTAJE GAUSS RENAULT CLIO R 19 R 9 GA 306-14V",
+				"category": "REPUESTOS",
+				"price": 13900,
+				"stock": 5
+			},
+			{
+				"id": 2030,
+				"title": "PLACA PORTADIODO INDIEL CHICO ROTOFRANCE U2529SPA",
+				"category": "REPUESTOS",
+				"price": 16900,
+				"stock": 4
+			},
+			{
+				"id": 2031,
+				"title": "FUSIBLE DE VIDRIO CILINDRICO 32 M.M X 5",
+				"category": "REPUESTOS",
+				"price": 1500,
+				"stock": 35
+			},
+			{
+				"id": 2032,
+				"title": "BUJE DE BRONCE BYC 730 XX",
+				"category": "REPUESTOS",
+				"price": 800,
+				"stock": 15
+			},
+			{
+				"id": 2033,
+				"title": "BUJE DE BRONCE BYC 1020 XX",
+				"category": "REPUESTOS",
+				"price": 1500,
+				"stock": 20
+			},
+			{
+				"id": 2034,
+				"title": "VASO FERNET DE VIDRIO",
+				"category": "BAZAR",
+				"price": 2500,
+				"stock": 8
+			},
+			{
+				"id": 2035,
+				"title": "LAMPARA OSRAM 1 POLO 24 V 5 W",
+				"category": "REPUESTOS",
+				"price": 1500,
+				"stock": 25
+			},
+			{
+				"id": 2036,
+				"title": "LAMPARA OSRAM DOS POLO 24 V 21/5 W",
+				"category": "REPUESTOS",
+				"price": 1300,
+				"stock": 15
+			},
+			{
+				"id": 2037,
+				"title": "PALA ANCHA ESTAMPADA GHERARDI",
+				"category": "FERRETERIA",
+				"price": 22000,
+				"stock": 2
+			},
+			{
+				"id": 2038,
+				"title": "MINI CORTA CAÑOS JR-127",
+				"category": "FERRETERIA",
+				"price": 7000,
+				"stock": 4
+			},
+			{
+				"id": 2039,
+				"title": "TESTER CON CAPACIMETRO DIGITAL DT-9205A",
+				"category": "FERRETERIA",
+				"price": 22000,
+				"stock": 3
+			},
+			{
+				"id": 2040,
+				"title": "KIT PESTAÑADORA CON CORTA CAÑO LT-1226A",
+				"category": "FERRETERIA",
+				"price": 55000,
+				"stock": 2
+			},
+			{
+				"id": 2041,
+				"title": "MECHA DE WIDIA CORTA EZETA 8 M.M",
+				"category": "FERRETERIA",
+				"price": 2400,
+				"stock": 15
+			},
+			{
+				"id": 2042,
+				"title": "FARO GUIÑO RENAULT R-9 88/90 AMBAR DEL DER",
+				"category": "REPUESTOS",
+				"price": 6000,
+				"stock": 4
+			},
+			{
+				"id": 2043,
+				"title": "FARO GUIÑO RENAULT R-9 88/90 AMBAR DEL IZQ",
+				"category": "REPUESTOS",
+				"price": 6000,
+				"stock": 2
+			},
+			{
+				"id": 2044,
+				"title": "LLAVE CHEVROLET CORSA LUCES S/RESOTATO ALFA 990",
+				"category": "REPUESTOS",
+				"price": 10000,
+				"stock": 2
+			},
+			{
+				"id": 2045,
+				"title": "TARUGO CRECCHIO MN 10",
+				"category": "FERRETERIA",
+				"price": 70,
+				"stock": 35
+			},
+			{
+				"id": 2046,
+				"title": "TARUGO CRECCHIO MN 8",
+				"category": "FERRETERIA",
+				"price": 80,
+				"stock": 80
+			},
+			{
+				"id": 2047,
+				"title": "BOCA DE ADMISION TITAN 2000",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 5900,
+				"stock": 2
+			},
+			{
+				"id": 2048,
+				"title": "BOCA ADMISION TITAN 150 / ST150",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 5300,
+				"stock": 3
+			},
+			{
+				"id": 2049,
+				"title": "BOCA ADMISION SKUA 150",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 6400,
+				"stock": 5
+			},
+			{
+				"id": 2050,
+				"title": "EJE RUEDA TRASERA SMASH 110 NACIONAL",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2900,
+				"stock": 5
+			},
+			{
+				"id": 2051,
+				"title": "EJE RUEDA TRASERA WAVE 110",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 3200,
+				"stock": 5
+			},
+			{
+				"id": 2052,
+				"title": "EJE RUEDA TRASERA RX150",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 3900,
+				"stock": 6
+			},
+			{
+				"id": 2053,
+				"title": "PERNO HORADADO CG150",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2300,
+				"stock": 4
+			},
+			{
+				"id": 2054,
+				"title": "PERNO HORADADO SKUA 150",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2000,
+				"stock": 4
+			},
+			{
+				"id": 2055,
+				"title": "PERNO HORADADO YBR 125",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2300,
+				"stock": 6
+			},
+			{
+				"id": 2056,
+				"title": "JUNTA MOTOR COMPLETO YBR 125 JC06078 P",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 4500,
+				"stock": 6
+			},
+			{
+				"id": 2057,
+				"title": "JUNTA MOTOR COMPLETO TITAN 150 CG JC06141 P",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 6500,
+				"stock": 6
+			},
+			{
+				"id": 2058,
+				"title": "JUNTA MOTOR COMPLETO NEW CRYPTON JC20240 P",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 3900,
+				"stock": 4
+			},
+			{
+				"id": 2059,
+				"title": "DESTAPADOR DE INODORO EL ABUELO",
+				"category": "FERRETERIA",
+				"price": 10900,
+				"stock": 4
+			},
+			{
+				"id": 2060,
+				"title": "REGULADOR VOLTAJE 110 TRIFASICO 6 CABLES BH1",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 15200,
+				"stock": 4
+			},
+			{
+				"id": 2061,
+				"title": "CUBETA DIRECCION MOTOMEL SKUA 150/DAKAR 200 OKINOI",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 6200,
+				"stock": 10
+			},
+			{
+				"id": 2062,
+				"title": "CUBETA DIRECCION COMPLETA OKINOI YBR 125 CHINO",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 5500,
+				"stock": 10
+			},
+			{
+				"id": 2063,
+				"title": "SIERRA CIRCULAR LUSQTOFF 1500 W 185 M.M",
+				"category": "FERRETERIA",
+				"price": 59900,
+				"stock": 10
+			},
+			{
+				"id": 2064,
+				"title": "TAPA PVC HEMBRA STD 3.2 160 M.M",
+				"category": "FERRETERIA",
+				"price": 2000,
+				"stock": 10
+			},
+			{
+				"id": 2065,
+				"title": "TEE GALVANIZADO H.H. 3/4",
+				"category": "FERRETERIA",
+				"price": 1900,
+				"stock": 10
+			},
+			{
+				"id": 2066,
+				"title":"CUPLA GALVANIZADO HIERRO 3/4",
+				"category":"FERRETERIA",
+				"price": 990,
+				"stock": 10
+			},
+			{
+				"id": 2067,
+				"title": "CODO GALVANIZADO H.H 3/4",
+				"category": "FERRETERIA",
+				"price": 1200,
+				"stock": 10
+			},
+			{
+				"id": 2068,
+				"title": "NIPLE GALVANIZADO 3/4 X 15 CM",
+				"category": "FERRETERIA",
+				"price": 1990,
+				"stock": 10
+			},
+			{
+				"id": 2069,
+				"title": "TRAPO REJILLA BCO XPER MULTITRAPO",
+				"category": "FERRETERIA",
+				"price": 600,
+				"stock": 10
+			},
+			{
+				"id": 2070,
+				"title": "SOGA MULTISOGA Nº 3 EL MT",
+				"category": "FERRETERIA",
+				"price": 60,
+				"stock": 10
+			},
+			{
+				"id": 2071,
+				"title": "ROTOR INDIEL 38 FALCON",
+				"category": "REPUESTOS",
+				"price": 35000,
+				"stock": 10
+			},
+			{
+				"id": 2072,
+				"title": "PORTALAMPARA FIAT DUNA/UNO 92/96 DER",
+				"category": "REPUESTOS",
+				"price": 6000,
+				"stock": 10
+			},
+			{
+				"id": 2073,
+				"title": "PORTALAMPARA FIAT DUNA/UNO 92/96 IZQ",
+				"category": "REPUESTOS",
+				"price": 6000,
+				"stock": 10
+			},
+			{
+				"id": 2075,
+				"title": "SUAVIZANTE DOWNY CONCENTRADO LIRIOS DE PRIMAVERA 500ML",
+				"category": "LIMPIEZA",
+				"price": 2200,
+				"stock": 10
+			},
+			{
+				"id": 2076,
+				"title": "SUAVIZANTE DOWNY CONCENTRADO LIRIOS DE PRIMAVERA 1 LT",
+				"category": "LIMPIEZA",
+				"price": 4200,
+				"stock": 10
+			},
+			{
+				"id": 2077,
+				"title": "SUAVIZANTE DOWNY CONCENTRADO BRISA FRESCA 1LT",
+				"category": "LIMPIEZA",
+				"price": 4200,
+				"stock": 10
+			},
+			{
+				"id": 2078,
+				"title": "CADENA DISTRIBUCION YAZUKI 25H X 84",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2900,
+				"stock": 10
+			},
+			{
+				"id": 2079,
+				"title": "CUBETA DIRECCION OSAKA SMASH BIT",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 3900,
+				"stock": 10
+			},
+			{
+				"id": 2080,
+				"title": "DISCO EMBRAGUE HADA SMASH 110 JGO",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2000,
+				"stock": 10
+			},
+			{
+				"id": 2081,
+				"title": "EJE RUEDA TRASERA SMASH JUSANI 220 X 12",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1900,
+				"stock": 10
+			},
+			{
+				"id": 2082,
+				"title": "JGO JUNTA MOTOR ALFA WAVE NF110 C/ORING",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 8900,
+				"stock": 10
+			},
+			{
+				"id": 2083,
+				"title": "KIT PISTON HAFFEN RX 150 62MM P/15 0.25",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 10000,
+				"stock": 5
+			},
+			{
+				"id": 2084,
+				"title": "KIT PISTON HAFFEN RX 150 62MM P/15 0.50",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 10000,
+				"stock": 4
+			},
+			
+			{
+				"id": 2089,
+				"title": "COLAPASTA PLASTICO MED",
+				"category": "BAZAR",
+				"price": 1150,
+				"stock": 5
+			},
+			{
+				"id": 2090,
+				"title": "COLA PASTA PLASTICO GRANDE",
+				"category": "BAZAR",
+				"price": 1900,
+				"stock": 6
+			},
+			{
+				"id": 2091,
+				"title": "BUJE REDUCCION 2 3-4 PPN",
+				"category": "FERRETERIA",
+				"price": 1200,
+				"stock": 25
+			},
+			{
+				"id": 2092,
+				"title": "FUELLE DE SEMIEJE GRIFFO 136-12 LADO CAJA MEGANE/CLIO/LAGUNA GR5910",
+				"category": "REPUESTOS",
+				"price": 3500,
+				"stock": 4
+			},
+			{
+				"id": 2093,
+				"title": "FLEXIBLE DE FRENO PIBOFLEX 74805 TRASERO RENAULT R12/BREAK FX5720",
+				"category": "REPUESTOS",
+				"price": 2900,
+				"stock": 5
+			},
+			{
+				"id": 2094,
+				"title": "SOPORTE DE MOTOR HIDRÁULICO GACRI 80137 LADO DERECHO CLIO GA9362",
+				"category": "REPUESTOS",
+				"price": 35000,
+				"stock": 6
+			},
+			{
+				"id": 2095,
+				"title": "JUEGO DE AROS HIDRÁULICO CENTRINEL PMA7521 00 STD CORSA/ASTRA D92860",
+				"category": "REPUESTOS",
+				"price": 20000,
+				"stock": 2
+			},
+			{
+				"id": 2096,
+				"title": "TERMOSTATO MLH TH6837.82J FORD FIESTA/FOCUS TE5874",
+				"category": "REPUESTOS",
+				"price": 9900,
+				"stock": 2
+			},
+			{
+				"id": 2097,
+				"title": "CAZOLETA DE SUSPENSIÓN TB 30033 DELANTERA (CON CRAPODINA) GOL TB7010",
+				"category": "REPUESTOS",
+				"price": 12000,
+				"stock": 3
+			},
+			{
+				"id": 2098,
+				"title": "ASIENTO Y AGUJA DE CARBURAD CASTRO 14136 HOLLEY 1 BOCA (PUNTA DE VITON) FORD/CHEV 141360",
+				"category": "REPUESTOS",
+				"price": 5900,
+				"stock": 4
+			},
+			{
+				"id": 2099,
+				"title": "CANILLA PLASTICA ITEPA 1/2",
+				"category": "FERRETERIA",
+				"price": 1200,
+				"stock": 4
+			},
+			{
+				"id": 2100,
+				"title": "CUCHILLA PLANA 355 X 2TX 25.4 X1.8",
+				"category": "FERRETERIA",
+				"price": 6900,
+				"stock": 5
+			},
+			
+			{
+				"id": 2101,
+				"title": "SOPORTE TANQUE DE CHAPA GUADAÑA",
+				"category": "REPUESTOS",
+				"price": 2500,
+				"stock": 4
+			},
+			{
+				"id": 2102,
+				"title": "CABLE USAB TIPO C TC",
+				"category": "VARIOS",
+				"price": 900,
+				"stock": 12
+			},
+			{
+				"id": 2103,
+				"title": "CARGADOR DIGICELL TIPO C 4.2A",
+				"category": "VARIOS",
+				"price": 4000,
+				"stock": 14
+			},
+			{
+				"id": 2104,
+				"title": "AURICULAR NOGA NG-094 EARPHONES",
+				"category": "VARIOS",
+				"price": 4500,
+				"stock": 10
+			},
+			{
+				"id": 2105,
+				"title": "PERCHA INYECTADA ALUMINIO DOBLE",
+				"category": "FERRETERIA",
+				"price": 1200,
+				"stock": 25
+			},
+			{
+				"id": 2106,
+				"title": "PASADOR CON PORTA CANDADO ZINCADO 120 M.M",
+				"category": "FERRETERIA",
+				"price": 3200,
+				"stock": 14
+			},
+			{
+				"id": 2108,
+				"title": "PORTA CORONA WAVE COMPLETO",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 8000,
+				"stock": 4
+			},
+			{
+				"id": 2109,
+				"title": "ESCAPE SMASH TIPO ORIGINAL M/NVO SOP CORTO ECON",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 20000,
+				"stock": 2
+			},
+			{
+				"id": 2110,
+				"title": "RESORTE BULBO DE FRENO GANCHO RECTO UNIVERSAL",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 400,
+				"stock": 10
+			},
+			{
+				"id": 2111,
+				"title": "RESORTE MULETA BIZ-SMASH LARGO",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 500,
+				"stock": 18
+			},
+			{
+				"id": 2112,
+				"title": "ESPARRAGO ESCAPE CD-100/BIZ/SMASH X PAR C/TUERCA",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 300,
+				"stock": 25
+			},
+			{
+				"id": 2113,
+				"title": "FILTRO AIRE VENTEO 35 X 40 C/RESORTE",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1100,
+				"stock": 18
+			},
+			{
+				"id": 2114,
+				"title": "INSERTO 10.00 X 1.50 / 8.00 X 1.25",
+				"category": "REPUESTOS",
+				"price": 1000,
+				"stock": 10
+			},
+			{
+				"id": 2115,
+				"title": "FILTRO AIRE VENTEO 39 X 40 C/RESORTE",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1100,
+				"stock": 10
+			},
+			{
+				"id": 2116,
+				"title": "FILTRO AIRE VENTEO 42 X 40 C/RESORTE",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1100,
+				"stock": 10
+			},
+			{
+				"id": 2117,
+				"title": "FILTRO AIRE 35 X 60 C/RESORTE URBAN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 2000,
+				"stock": 10
+			},
+			{
+				"id": 2118,
+				"title": "FILTRO AIRE 39 X 60 C/RESORTE URBAN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1500,
+				"stock": 10
+			},
+			
+			{
+				"id": 2119,
+				"title": "FILTRO AIRE 42 X 60 C/RESORTE URBAN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 900,
+				"stock": 10
+			},
+			{
+				"id": 2120,
+				"title": "FILTRO AIRE 35 X 100 C/RESORTE URBAN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1000,
+				"stock": 6
+			},
+			{
+				"id": 2121,
+				"title": "FILTRO AIRE 39 X 100 C/RESORTE URBAN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1000,
+				"stock": 4
+			},
+			{
+				"id": 2122,
+				"title": "FILTRO AIRE 42 X 100 C/RESORTE URBAN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 1000,
+				"stock": 5
+			},
+			{
+				"id": 2123,
+				"title": "GOMA MAZA TITAN 150 X 4 UN",
+				"category": "REPUESTOS PARA MOTO",
+				"price": 500,
+				"stock": 15
+			},
+			{
+				"id": 2124,
+				"title": "PLANCHUELA PERFORADA 67 X 166 PARA MADERA",
+				"category": "FERRETERIA",
+				"price": 1150,
+				"stock": 10
+			},
+			{
+				"id": 2125,
+				"title": "SOPORTE VIDRIO 6 M.M BRONCE NIQUELADO",
+				"category": "FERRETERIA",
+				"price": 1100,
+				"stock": 15
+			},
+			{
+				"id": 2126,
+				"title": "CABLE CONVERSOR HDMI A VGA VID AUD ZURICH",
+				"category": "ELECTRICIDAD",
+				"price": 16900,
+				"stock": 6
+			},
+			{
+				"id": 2127,
+				"title": "RETÉN GUÍA DE VÁLVULA DBH 566POL CHEVROLET/FIAT D63700",
+				"category": "REPUESTOS",
+				"price": 8000,
+				"stock": 4
+			},
+			{
+				"id": 2128,
+				"title": "KIT DE REPAR PALANCA DE CAMBIOS PAULUCCI AP7543 (5 PIEZAS) CHEVROLET CORSA/ASTRA PA5340",
+				"category": "REPUESTOS",
+				"price": 6000,
+				"stock": 5
+			},
+			{
+				"id": 2129,
+				"title": "JUNTA HOMOCINÉTICA DAUER 186 LADO RUEDA (7 PIEZAS) GOL POWER JHD724",
+				"category": "REPUESTOS",
+				"price": 35000,
+				"stock": 2
+			},
+			{
+				"id": 2130,
+				"title":"CABLE DE EMBRAGUE FHG 4009BIS CON HORQUILLA PEUG 405 CE1520",
+				"category":"REPUESTOS",
+				"price": 3900,
+				"stock": 4
+			},
+			{
+				"id": 2131,
+				"title":"COLADOR CEPLAST MALLA DE ACERO N 10",
+				"category":"BAZAR",
+				"price": 1500,
+				"stock": 5
+			},
+			{
+				"id": 2132,
+				"title":"ENSALADERA MEDIANA FACETEADA",
+				"category":"BAZAR",
+				"price": 1650,
+				"stock": 6
+			},
+			{
+				"id": 2133,
+				"title":"BEAUTY HOME ENSALADERA GRANDE 900230",
+				"category":"BAZAR",
+				"price": 1900,
+				"stock": 5
+			},
+			{
+				"id": 2134,
+				"title":"TARTERA ALTA  EL SIGLO N°26",
+				"category":"BAZAR",
+				"price": 3450,
+				"stock": 6
+			},
+			{
+				"id": 2136,
+				"title":"TORTERA EL SIGLO N°22",
+				"category":"BAZAR",
+				"price": 3900,
+				"stock": 4
+			},
+			{
+				"id": 2135,
+				"title":"CONTROL PARA AIRE UNIVERSAL",
+				"category":"VARIOS",
+				"price": 4000,
+				"stock": 10
+			},
+			{
+				"id": 2137,
+				"title":"TORTERA N28 EL SIGLO 8CM",
+				"category":"BAZAR",
+				"price": 3800,
+				"stock": 6
+			},
+			{
+				"id": 2139,
+				"title":"BUJIA BOSCH HR7MCU FORD K FIESTA MOTOR ROCAM",
+				"category":"REPUESTOS",
+				"price": 4500,
+				"stock": 12
+			},
+			{
+				"id": 2140,
+				"title":"BOLS HERMETICO REDONDO C/TAPA 1300C.C",
+				"category":"BAZAR",
+				"price": 1500,
+				"stock": 8
+			},
+			{
+				"id": 2141,
+				"title":"BOLS HERMETICO REDONDO C/TAPA 2 LT",
+				"category":"BAZAR",
+				"price": 1400,
+				"stock": 8
+			},
+			{
+				"id": 2142,
+				"title":"GRACELF SUPRA TIPO A CONCENTRADO TOTAL 1LT",
+				"category":"FERRETERIA",
+				"price": 3900,
+				"stock": 6
+			},
+			{
+				"id": 2143,
+				"title":"ARANDELAS PLANAS COMUNES ZINCADAS 1.1/2 X UNID",
+				"category":"BULONERIA",
+				"price": 500,
+				"stock": 100
+			},
+			{
+				"id": 2144,
+				"title":"CHAVETA PARTIDA 6.00 X 60",
+				"category":"BULONERIA",
+				"price": 200,
+				"stock": 15
+			},
+			{
+				"id": 2145,
+				"title":"ARANDELA COBRE 14.00 X 230 X 1.25",
+				"category":"BULONERIA",
+				"price": 500,
+				"stock": 10
+			},
+			{
+				"id": 2146,
+				"title":"CABLE FRENO DELANTERO TITAN",
+				"category":"REPUESTOS PARA MOTO",
+				"price": 2900,
+				"stock": 8
+			},
+			{
+				"id": 2147,
+				"title":"PRECINTO DE  NYLON 4.6 X 400",
+				"category":"FERRETERIA",
+				"price": 200,
+				"stock": 200
+			},
+			{
+				"id": 2148,
+				"title":"REMACHES RERAR  5 X 25 X UNID",
+				"category":"FERRETERIA",
+				"price": 30,
+				"stock": 1000
+			},
+			{
+				"id": 2149,
+				"title":"MANGUERA FLEXIBLE ENGRASADORA  30 CM ",
+				"category":"FERRETERIA",
+				"price": 3900,
+				"stock": 5
+			},
+			{
+				"id": 2150,
+				"title":"SACA FILTRO A CADENA HELIOS",
+				"category":"FERRETERIA",
+				"price": 8500,
+				"stock": 10
+			},
+			{
+				"id": 2151,
+				"title":"MOSQUETONES GATILLO CROM. Nº 4 REDONDO",
+				"category":"FERRETERIA",
+				"price": 2100,
+				"stock": 15
+			},
+			{
+				"id": 2152,
+				"title":"MOSQUETONES GATILLO CROM. Nº 5",
+				"category":"FERRETERIA",
+				"price": 4000,
+				"stock": 15
+			},
+			{
+				"id": 2153,
+				"title":"JGO SOPAPA JACTO",
+				"category":"FERRETERIA",
+				"price": 1000,
+				"stock": 5
+			},
+			{
+				"id": 2154,
+				"title":"UNION DOBLE PARA CAÑO TEFLON 4 M.M",
+				"category":"FERRETERIA",
+				"price": 1500,
+				"stock": 10
+			},
+			{
+				"id": 2155,
+				"title":"FIELTRO DE LANA EXTRA DENSO 12 CM X 1 MT",
+				"category":"FERRETERIA",
+				"price": 26000,
+				"stock": 6
+			},
+			{
+				"id": 2156,
+				"title":"RACORD HIERRO ROSCA MACHO 1/4 X MANGUERA 1/2",
+				"category":"FERRETERIA",
+				"price": 2200,
+				"stock": 12
+			},
+			{
+				"id": 2157,
+				"title":"MULETA PRO TORK NXR 125/150 BROS",
+				"category":"REPUESTOS PARA MOTO",
+				"price": 4250,
+				"stock": 3
+			},
+			{
+				"ID": 2158,
+				"title":"CABLE EMBRAGUE OSAKA CBX 250 TWISTER",
+				"category":"REPUESTOS PARA MOTO",
+				"price": 1900,
+				"stock": 8
+			},
+			{
+				"id": 2159,
+				"title":"PASTILLA FRENO FRI-MA 109 DAKAR 200/SKUA 150",
+				"category":"REPUESTOS PARA MOTO",
+				"price": 2900,
+				"stock": 10
+			},
+			{
+				"id": 2161,
+				"title":"PASTILLA FRENO FRI-MA XR 250 TORNADO/CR125/CRF150",
+				"category":"REPUESTOS PARA MOTO",
+				"price": 2300,
+				"stock": 20
+			},
+			{
+				"id": 2162,
+				"title":"ESTATOR VINI 7 CAMPOS YBR 125",
+				"category":"REPUESTOS PARA MOTO",
+				"price": 22650,
+				"stock": 2
+			},
+			{
+				"id": 2163,
+				"title":"E-BAG 80X110 BOLSA CONSORCIO NEW PEL",
+				"category":"LIMPIEZA",
+				"price": 600,
+				"stock": 10
+			},
+			{
+				"id": 2164,
+				"title":"TERMO LUSQTOFF  X 1 LT",
+				"category":"BAZAR",
+				"price": 35000,
+				"stock": 10
+			}
+		]

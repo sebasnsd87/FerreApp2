@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "userId":2,
+        "createdAt":1679869276580,
+        "items":[
+            {
+                "id": 1891,
+                "title": "ARGOLLA HIERRO ZINC 6 X 44",
+                "category": "FERRETERIA",
+                "price": 490,
+                "stock": 10,
+                "quantity": 3
+              },
+              {
+                "id": 1893,
+                "title":"ARGOLLA DE BRONCE PULIDA 28 M.M",
+                "category":"FERRETERIA",
+                "price": 2200,
+                "stock": 10,
+                "quantity":2
+              }
+        ]
+    },
+
+    {
+        "id":2,
+        "userId":2,
+        "createdAt":1679832276580,
+        "items":[
+            {   "id": 1896,
+                "title":"ARGOLLA DE BRONCE PULIDA 60 MM",
+                "category":"FERRETERIA",
+                "price": 6000,
+                "stock": 10,
+                "quantity":3
+              },
+              {
+                
+		        "id": 1898,
+		        "title":"IMPREGNANTE LASUR NATURAL BRILLANTE X 1 LT",
+		        "category":"PINTURAS",
+		        "price": 3300,
+		        "stock": 10,
+                "quantity":2
+              }
+        ]
+    }
+
+]
