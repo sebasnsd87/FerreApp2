@@ -22,7 +22,7 @@ export default CartItem;
 const styles = StyleSheet.create({
   container: {
     width: "100%",
-    backgroundColor: colors.green3,
+    backgroundColor: colors.green2,
     margin: 10,
     padding: 10,
     flexDirection: "row",
@@ -37,10 +37,10 @@ const styles = StyleSheet.create({
   },
   text1: {
     fontSize: 19,
-    color: colors.lightGray,
+    color: "black",
   },
   text2: {
     fontSize: 17,
-    color: colors.lightGray,
+    color: "black",
   }
 });

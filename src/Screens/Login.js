@@ -61,13 +61,16 @@ const styles = StyleSheet.create({
     main:{
       flex:1,
       justifyContent:"center",
-      alignItems:"center"
+      alignItems:"center",
+      backgroundColor: colors.green1
     },
     container:{
       width:"90%",
-      backgroundColor:colors.green1,
+      backgroundColor:colors.green2,
       gap:15,
       borderRadius:10,
+      borderColor:"black",
+      borderWidth: 2,
       justifyContent:"center",
       alignItems:"center",
       paddingVertical:20

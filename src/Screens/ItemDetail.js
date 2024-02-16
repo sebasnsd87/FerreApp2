@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     },
     goBack:{
       width:"100%",
-      backgroundColor:colors.green1,
+      backgroundColor:colors.green2,
       padding:10,
       paddingStart:40
      },
@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
       fontSize:30
      },
      buyNow:{
-      backgroundColor:colors.green1,
+      backgroundColor:colors.green2,
       paddingVertical:5,
       paddingHorizontal:10,
       borderRadius:5

@@ -27,7 +27,7 @@ export default ProductItem
 const styles = StyleSheet.create({
    container:{
         width:"100%",
-        backgroundColor:colors.green1,
+        backgroundColor:colors.green2,
         marginHorizontal:10,
         marginVertical:10,
         paddingHorizontal:10,

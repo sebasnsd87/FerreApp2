@@ -14,6 +14,9 @@ const Signup = ({navigation}) => {
   const [email,setEmail] = useState("")
   const [password,setPassword] = useState("")
   const [confirmPassword,setConfirmPassword] = useState("")
+  const [emailError,setEmailError] = useState("")
+  const [passwordError,setPasswordError] = useState("")
+  const [confirmPasswordError,setConfirmPasswordError] = useState("")
 
   useEffect(()=>{
     if(isSuccess) dispatch(setUser(data))
@@ -23,11 +26,26 @@ const Signup = ({navigation}) => {
 
   const onSubmit = () => {
     try {
+        setEmailError("")
+        setPasswordError("")
+        setConfirmPasswordError("")
         signupSchema.validateSync({email,password,confirmPassword})
         triggerSignup({email,password})
     } catch (error) {
-        console.log(error.path)
-        console.log(error.message)
+        switch(error.path){
+          case "email":
+            setEmailError(error.message)
+            break
+          case "password":
+            setPasswordError(error.message)
+            break
+          case "confirmPassword":
+            setConfirmPasswordError(error.message)
+            break
+          default:
+            break
+
+        }
 
     }
   }
@@ -42,21 +60,21 @@ const Signup = ({navigation}) => {
             value={email}
             onChangeText={(t) => setEmail(t)}
             isSecure={false}
-            error=""
+            error={emailError}
           />
           <InputForm
             label="Password"
             value={password}
             onChangeText={(t) => setPassword(t)}
             isSecure={true}
-            error=""
+            error={passwordError}
           />
            <InputForm
             label="Confirm password"
             value={confirmPassword}
             onChangeText={(t) => setConfirmPassword(t)}
             isSecure={true}
-            error=""
+            error={confirmPasswordError}
 
           />
           <SubmitButton title="Send" onPress={onSubmit}  
@@ -78,11 +96,13 @@ const styles = StyleSheet.create({
     main:{
       flex:1,
       justifyContent:"center",
-      alignItems:"center"
+      alignItems:"center",
+      backgroundColor: colors.green1
     },
     container:{
       width:"90%",
-      backgroundColor:colors.green1,
+      backgroundColor:colors.green2,
+      borderColor:"black",
       gap:15,
       borderRadius:10,
       justifyContent:"center",
@@ -90,12 +110,10 @@ const styles = StyleSheet.create({
       paddingVertical:20
     },
     title:{
-      fontSize:22,
-      
+      fontSize:22
     },
     sub:{
-      fontSize:14,
-     
+      fontSize:14
     },
     subLink:{
       fontSize:14,
