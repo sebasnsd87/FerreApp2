@@ -54,7 +54,7 @@ const Signup = ({navigation}) => {
   return (
     <View style={styles.main}>
       <View style={styles.container}>
-          <Text style={styles.title} >Sign up</Text>
+          <Text style={styles.title} >Crear Usuario</Text>
           <InputForm
             label="Email"
             value={email}
@@ -63,25 +63,25 @@ const Signup = ({navigation}) => {
             error={emailError}
           />
           <InputForm
-            label="Password"
+            label="Contraseña"
             value={password}
             onChangeText={(t) => setPassword(t)}
             isSecure={true}
             error={passwordError}
           />
            <InputForm
-            label="Confirm password"
+            label="Confirmar Contraseña"
             value={confirmPassword}
             onChangeText={(t) => setConfirmPassword(t)}
             isSecure={true}
             error={confirmPasswordError}
 
           />
-          <SubmitButton title="Send" onPress={onSubmit}  
+          <SubmitButton title="Enviar" onPress={onSubmit}  
           />
-          <Text style={styles.sub}>Alredy have an account?</Text>
+          <Text style={styles.sub}>Ya tenes tu usuario?</Text>
           <Pressable onPress={()=> navigation.navigate("Login")}>
-              <Text style={styles.subLink}>Login</Text>
+              <Text style={styles.subLink}>Iniciar Sesion</Text>
           </Pressable>
       </View>
     </View>
@@ -107,7 +107,10 @@ const styles = StyleSheet.create({
       borderRadius:10,
       justifyContent:"center",
       alignItems:"center",
-      paddingVertical:20
+      paddingVertical:20,
+      borderWidth: 3,
+      borderColor: "black"
+      
     },
     title:{
       fontSize:22

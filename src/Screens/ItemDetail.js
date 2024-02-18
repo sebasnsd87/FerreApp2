@@ -5,21 +5,28 @@ import { useSelector } from 'react-redux'
 import { useDispatch } from 'react-redux'
 import { addItem } from '../features/cart/cartSlice'
 
-const ItemDetail = ({route}) => {
+const ItemDetail = ({item, route}) => {
   const dispatch = useDispatch()
   const product = useSelector((state)=> state.shop.value.productSelected)
   const images = product.images ? product.images : []
 
+  const imageUrl = images.length > 0 ? images[0] : null;
 
-
+  console.log('Información del producto:', product);
+  console.log('Imágenes del producto:', images);
+  
   return (
     <View style={styles.container}>
       <View style={styles.content} >
-          <Image
-            style={styles.image}
-            source={{uri:images[2]}}
-            resizeMode='cover'
-          />
+      {!imageUrl ? (
+  <Text style={styles.errorText}>Error al cargar la imagen</Text>
+) : (
+  <Image
+  style={styles.image}
+  resizeMode='cover'
+  source={{uri:item.thumbnail}}
+/>
+)}
           <View style={styles.containerText}>
             <Text style={styles.title}>{product.title}</Text>
             <Text>{product.description}</Text>
@@ -48,7 +55,11 @@ const styles = StyleSheet.create({
       width:"80%",
       height: "30%"
     },
-
+    errorText: {
+      fontSize: 20,
+      color: 'red',
+      textAlign: 'center',
+    },
     image:{
       width:100,
       height:10

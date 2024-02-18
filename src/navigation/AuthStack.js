@@ -12,7 +12,7 @@ const AuthStack = () => {
         screenOptions={
             ({route})=>{
                 return {
-                    header : () => <Header title="Bienvenido"/>
+                    header : () => <Header title="Bienvenidos a Ferreteria Emilio"/>
                 }
             }
         }

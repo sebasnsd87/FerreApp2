@@ -28,7 +28,7 @@ const Login = ({navigation}) => {
   return (
     <View style={styles.main}>
       <View style={styles.container}>
-          <Text style={styles.title} >Login to start</Text>
+          <Text style={styles.title} >Iniciar Sesion</Text>
           <InputForm
             label="Email"
             value={email}
@@ -37,16 +37,16 @@ const Login = ({navigation}) => {
             error=""
           />
           <InputForm
-            label="Password"
+            label="Contraseña"
             value={password}
             onChangeText={(t) => setPassword(t)}
             isSecure={true}
             error=""
           />
-          <SubmitButton onPress={onSubmit} title="Send"/>
-          <Text style={styles.sub}>Not have an account?</Text>
+          <SubmitButton onPress={onSubmit} title="Enviar"/>
+          <Text style={styles.sub}>No obtuviste tu usuario?</Text>
           <Pressable onPress={()=> navigation.navigate("Signup")} >
-              <Text style={styles.subLink}>Sign up</Text>
+              <Text style={styles.subLink}>Crear Usuario</Text>
           </Pressable>
       </View>
     </View>
@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
       gap:15,
       borderRadius:10,
       borderColor:"black",
-      borderWidth: 2,
+      borderWidth: 3,
       justifyContent:"center",
       alignItems:"center",
       paddingVertical:20
