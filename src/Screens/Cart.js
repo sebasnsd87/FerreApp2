@@ -1,8 +1,8 @@
 import React from 'react';
-import { StyleSheet, Text, View, FlatList, Pressable } from 'react-native';
+import { StyleSheet, Text, View, FlatList, Pressable, Alert } from 'react-native';
 import CartItem from '../Components/CartItem';
 import { useSelector, useDispatch } from 'react-redux';
-import { removeItem } from '../features/cart/cartSlice';
+import { removeItem, clearCart } from '../features/cart/cartSlice';
 import { usePostOrdersMutation } from '../app/service/shopService';
 
 const Cart = () => {
@@ -14,6 +14,23 @@ const Cart = () => {
     dispatch(removeItem({ id: itemId }));
   };
 
+  const handleConfirmOrder = () => {
+    Alert.alert(
+      'Confirmar Compra',
+      '¿Estás seguro de que deseas realizar la compra?',
+      [
+        { text: 'Cancelar', style: 'cancel' },
+        { text: 'Confirmar', onPress: () => handleConfirm() },
+      ]
+    );
+  };
+
+  const handleConfirm = () => {
+    dispatch(clearCart());
+    triggerPostOrder(cart);
+    Alert.alert('Compra realizada', '¡Gracias por tu compra!');
+  };
+
   return (
     <View style={styles.container}>
       <FlatList
@@ -22,7 +39,7 @@ const Cart = () => {
         renderItem={({ item }) => <CartItem item={item} onRemove={() => handleRemoveItem(item.id)} />}
       />
       <View style={styles.confirmContainer}>
-        <Pressable onPress={() => triggerPostOrder(cart)}>
+        <Pressable onPress={handleConfirmOrder}>
           <Text style={styles.text}>Confirmar</Text>
         </Pressable>
         <Text style={styles.text}>Total: $ {cart.total} </Text>
@@ -32,6 +49,8 @@ const Cart = () => {
 }
 
 export default Cart;
+
+
 
 const styles = StyleSheet.create({
   container: {

@@ -1,23 +1,25 @@
-import { StyleSheet, Text, View } from 'react-native'
-import {Feather} from "@expo/vector-icons"
-import { colors } from '../Global/colors'
+import { StyleSheet, Text, View } from 'react-native';
+import { Feather } from '@expo/vector-icons';
+import { colors } from '../Global/colors';
 
-const OrderItem = ({order}) => {
-    const total = order.items
-        .reduce((acc,product)=> acc + (product.price * product.quantity),0)
+const OrderItem = ({ order }) => {
+  const total = order.items.reduce((acc, product) => acc + (product.price * product.quantity), 0);
+
+  
 
   return (
     <View style={styles.container}>
       <View style={styles.textContainer}>
-            <Text style={styles.text1}>{new Date(order.createdAt).toLocaleString()}</Text>
-            <Text style={styles.text2}>Total: $ {total}</Text>
+        <Text style={styles.text1}>{new Date(order.createdAt).toLocaleString()}</Text>
+        <Text style={styles.text2}>Total: $ {total}</Text>
       </View>
-      <Feather name="search" size={25} color="black"/>
+      <Feather name="search" size={25} color="black" />
     </View>
-  )
-}
+  );
+};
 
-export default OrderItem
+export default OrderItem;
+
 
 const styles = StyleSheet.create({
     container:{

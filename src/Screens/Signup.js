@@ -7,6 +7,7 @@ import { useSignupMutation } from '../app/service/auth'
 import { useDispatch } from 'react-redux'
 import { setUser } from '../features/auth/authSlice'
 import { signupSchema } from '../validations/signupSchema'
+import { insertSession } from '../database'
 
 const Signup = ({navigation}) => {
   const dispatch = useDispatch()
@@ -17,9 +18,15 @@ const Signup = ({navigation}) => {
   const [emailError,setEmailError] = useState("")
   const [passwordError,setPasswordError] = useState("")
   const [confirmPasswordError,setConfirmPasswordError] = useState("")
+  
 
   useEffect(()=>{
-    if(isSuccess) dispatch(setUser(data))
+    if(isSuccess) {
+      dispatch(setUser(data))
+      insertSession(data)
+        .then(result => console.log(result))
+        .catch(err => console.log(err))
+    }
     if(isError) console.log(error)
   },[data,isError,isSuccess])
 
@@ -49,6 +56,7 @@ const Signup = ({navigation}) => {
 
     }
   }
+
 
 
   return (
@@ -113,7 +121,8 @@ const styles = StyleSheet.create({
       
     },
     title:{
-      fontSize:22
+      fontSize:22,
+      fontFamily: "Josefin"
     },
     sub:{
       fontSize:14

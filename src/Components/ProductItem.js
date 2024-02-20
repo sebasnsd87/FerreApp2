@@ -40,7 +40,8 @@ const styles = StyleSheet.create({
     text:{
       width:"50%",
       textAlign:"center",
-      fontSize:20
+      fontSize:20,
+      fontFamily: "Josefin"
     },
     textMin:{
       width:"60%",
